@@ -1,6 +1,6 @@
-#Magical Predictions
+# Magical Predictions
 
-##Set Up
+## Set Up
 1) Open the google colab notebook, Magic_Train_a_GPT_2_Text_Generating_Model_w_GPU.ipynb , and upload the provided file, fortunes.txt
 2) Run the whole google colab file in order
 3) Download the generated checkpoint folder and place it within the magic directory
